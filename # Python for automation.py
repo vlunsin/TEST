@@ -4,7 +4,7 @@
 pip install pandas
 
 import pandas as pd
-pd.read_html(URL) will give back a list
+pd.read_html(URL) # will give back a list
 
 # Can scrape tables from website
 # Can Automate downloads from website
